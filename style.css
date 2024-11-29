@@ -1,0 +1,9 @@
+body{
+	background-color: lightskyblue;
+}
+
+.container {
+	background-color: royalblue;
+	padding: 15px;
+	box-shadow: 10px 10px lightblue;
+}
